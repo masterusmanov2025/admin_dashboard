@@ -28,7 +28,7 @@ const Navbar = ({ isDropdown, toggleDropdown, isModal, toggleModal }) => {
                         <button onClick={toggleModal} className="cursor-pointer font-bold text-red-500 float-right px-3">X</button>
                         <div className=" mx-[20px] mt-[50px] flex items-center border border-gray-400 rounded-lg space-x-2">
                             <div className="bg-blue-500 w-3 h-9 rounded-l-md"></div>
-                            <h2>salom</h2>
+                            <h2>sa lom</h2>
                         </div>
                         <div className=" mx-[20px] mt-[10px] flex items-center border border-gray-400 rounded-lg space-x-2">
                             <div className="bg-blue-500 w-3 h-9 rounded-l-md"></div>
